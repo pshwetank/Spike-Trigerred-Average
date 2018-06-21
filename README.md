@@ -1,2 +1,4 @@
 # Spike-Trigerred-Average
-Neural Encoding : Computing Spike-Triggered Average from stimulus-time series and spike-time series. (Computational Neuroscience Coursera)
+Objective       : Computing Spike-Triggered Average from stimulus-time series and spike-time series data.
+Problem Source  : Computational Neuroscience(Coursera), University of Washington
+Topic           : Neural Encoding
